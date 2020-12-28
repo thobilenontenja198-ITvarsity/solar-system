@@ -45,3 +45,41 @@ h1{
     border: 1px dotted white;
     border-radius: 50%;
 }
+
+#neptune-label{
+    bottom: 692px;
+}
+
+/*=================please remove==============*/
+
+#container{
+    transform: scale(0.8, 0.8) translate(0, 700px);
+}
+
+
+
+
+/*=================LABEL BOX==============*/
+.label-box{
+    position: absolute;
+    width: 150px;
+    left: 50%;
+    margin-left: -75px;
+    text-align: center;
+    color: white;
+}
+
+
+.label-box a{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+.label-box a:visited{
+    color: white;
+}
+
+
+
+
